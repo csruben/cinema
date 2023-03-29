@@ -1,0 +1,18 @@
+{
+  "2": {
+    "py/object": "Domain.film.Film",
+    "id_entity": "2",
+    "titlu_film": "2",
+    "an_aparitie_film": 2,
+    "pret_bilet_film": 2.0,
+    "in_program": "da"
+  },
+  "3": {
+    "py/object": "Domain.film.Film",
+    "id_entity": "3",
+    "titlu_film": "3",
+    "an_aparitie_film": 3,
+    "pret_bilet_film": 3.0,
+    "in_program": "da"
+  }
+}
